@@ -1,2 +1,1 @@
-# Script
-Salto,esp,configuraciónes
+loadstring(game:HttpGet("https://pastefy.app/QymV3yqI/raw"))()
