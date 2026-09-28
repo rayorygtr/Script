@@ -1,0 +1,2 @@
+# Script
+Salto,esp,configuraciónes
